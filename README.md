@@ -2,7 +2,7 @@
 
 ![wwdc2020](./images/wwdc2020.jpg)
 
-# WWDC 2020 - Web
+# WWDC20 - Web
 
 </div>
 
